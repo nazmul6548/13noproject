@@ -47,7 +47,7 @@
 // var result =x.toFixed(2)
 // console.log(result)
 
-// //_____ans to the q no-12_____//
-// var text = "congratulation"
-// var result = text.length
-// console.log(result)
+//_____ans to the q no-12_____//
+var text = "congratulation"
+var result = text.length
+console.log(result)
